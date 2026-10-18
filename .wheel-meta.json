@@ -1,0 +1,22 @@
+{
+  "wheel_id": 415,
+  "structure": "umbrella",
+  "slug": "webdesigninadelaide-101",
+  "project": "web-design-adelaide-beginner-guide-33901b6211a967ef3d8c5fb93024",
+  "parent_t1_ref": "webdesigninadelaide-150",
+  "node_role": "feeder",
+  "money_target": "webdesigninadelaide.com.au",
+  "primary_kw": "web design adelaide beginner guide",
+  "intended_url": "http://web-design-adelaide-beginner-guide-33901b6211a967ef3d8c5fb93024.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "e0c522e2ac994067",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/webdesigninadelaide-150/",
+      "anchor": "this web design adelaide what to expect resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
